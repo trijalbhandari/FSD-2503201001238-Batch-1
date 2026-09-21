@@ -1,0 +1,24 @@
+{
+  "name": "web-development-project",
+  "version": "1.0.0",
+  "description": "A collection of my web development projects created while learning and practicing **HTML, CSS, JavaScript, React, and frontend development**.",
+  "main": "EXP2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanishks-07/Web-Development-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tanishks-07/Web-Development-project/issues"
+  },
+  "homepage": "https://github.com/tanishks-07/Web-Development-project#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
